@@ -25,7 +25,9 @@ Features
 ## How to View
 
 You can view the live portfolio here:  
-(https://yourusername.github.io/portfolio/)
+https://codergirl09.github.io/Portfolio-/
+
+
 
 ---
 
